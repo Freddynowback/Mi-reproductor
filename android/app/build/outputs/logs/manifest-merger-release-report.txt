@@ -1,0 +1,464 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [:react-native-async-storage_async-storage] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_slider] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-community/slider/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-document-picker] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-fs] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:2:1-25:12
+MERGED from [com.facebook.react:react-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/7b0146455a7d49dd104ba0e527a802e7/transformed/jetified-react-android-0.72.6-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.react:hermes-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/b8ac93b3ca0aee062ebebe74e1ae812d/transformed/jetified-hermes-android-0.72.6-release/AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b544f2c27627d3e5a61d2eaf104b7d52/transformed/jetified-kotlinaudio-v2.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7065a57c1c8ce29d21c41f89d85b829/transformed/jetified-coil-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d41dd2a7e1ce7d439ad7696d693e669e/transformed/jetified-coil-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a4582fcf4777cd70591117a23078262/transformed/appcompat-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/aff50e2a9b3c13dbf5f6a2bb255f515d/transformed/jetified-appcompat-resources-1.5.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.autofill:autofill:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b2c399022120a5a16a836a433ff38c79/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d2a0ef851359ae355103c8a357e2e22c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e476447430bdc86d50f956c4c4777a9c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.3.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/177c698be397eb145127cfb5353a1679/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/24934cef6fcb084e51d280dd4587dc43/transformed/jetified-activity-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/816103dcaf20cc3449d44e7aef228ddc/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56f1803f906fd5f118236bcaa7d83516/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/463b085172aadec89519c358dac4e9e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f94ce445049fe5108bae0ffb11c13baa/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:middleware:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/27f84bb717a8b1cd2be9be8892abf224/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2dc1ddc3116e7f500de7356f905cb3de/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ca6afc21b9af658f6482a1b9a6af364/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4cf92de3c78540d6124f57edafd11be8/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/434dd3be0b9659b4cb0b7e160c23042f/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0d3ae39a6072af8f10da24db00becb75/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/cba94f087fc896da04d00977c3b4ef2c/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/1616eed3ce208fb9cb8ed27ec0f70f3c/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/ba1f2933b2627bca5088b4d86f344673/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/eeeac1eb65861c80bc87d1dc691435bb/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e4c6348dd356291cec54fd56223b2321/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.test:rules:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2e2693ddd6c3a69d44c8e45252caef08/transformed/rules-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.test.services:storage:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6c4f3a207d75a46c3bde1abb15be0883/transformed/jetified-storage-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f2782bc466a14e48ac3fd50422df07eb/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ef60d5b816f6ae0ee83e431ccfdea9a/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a8d1d171f8bf29065aa4727aea3aed22/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56ea24054bd615a4d95562dfc4deee97/transformed/jetified-extension-mediasession-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/5bb46c85f81be2439e08ac6c56f7475a/transformed/jetified-exoplayer-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/98622824935e8da30976627b1c47f6be/transformed/jetified-exoplayer-ui-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89596425dbeb3faea61db51de34e04ec/transformed/media-1.6.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e8e201cca117b063e591be309748cc21/transformed/recyclerview-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/dfc6ab3249e5535f070488292c345975/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f5e70c2f711b5e203c26b6cab0f2f096/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/156ccde47985acbd22f61b88769a582b/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8e18f599a8378119e373becab285e8b1/transformed/jetified-exoplayer-dash-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4c05687aaf0a630df5a5630423e8d4c2/transformed/jetified-exoplayer-hls-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/bbd85b4ea2fb42fc2ba0f3c8aa20505b/transformed/jetified-exoplayer-rtsp-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89c480d4712ad19bceff14d88694b4dc/transformed/jetified-exoplayer-smoothstreaming-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/55dcd46e4ec8045c49db1f6423ee9796/transformed/jetified-exoplayer-core-2.19.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/80a0138e8c60a7516785efaf8dfd795a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/424f890fe8622dde08059ad036b58b7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/371d19ce28030327e76c1cf5f2b5245c/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/53c0d890c6bc81ca8ed0b3e1e4669247/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1a3fbeb970e57b17142c4a5c691c0de/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9eef969e6025718ac1fde2c52b3066d8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/9aac10571d1da2bf9b3f9b1ce16ec0f0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a9a88eff22990bbc5fa09fc77be65fe9/transformed/jetified-exoplayer-datasource-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/366be6b9ec072ab8fe0ef6091e192119/transformed/jetified-exoplayer-database-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a22e19b08d8a5a9e605f5ed33b2a514/transformed/jetified-exoplayer-extractor-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b08feb407dcdabe1f4f23b80ceb8227d/transformed/jetified-exoplayer-decoder-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/c4154894c5c432bf38c482455db265c6/transformed/jetified-exoplayer-container-2.19.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a7b6b5638d52e75e5c869b2d2692afb0/transformed/jetified-exoplayer-common-2.19.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/a1eec6f4e1f4253fcf428dd43a9fa3cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/653d028e3d1b563c6d219d7c9480311d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b5a8f4cf7a5a1a22c362c296ecffd88b/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9e963b848f7749309ceb54174b3bfd88/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e081ace0c4a1086c044e0d15d89ff25d/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /media/freddy/EXTERNO/gradle/caches/transforms-3/0eba2a16e2a1cb3e4265e0366e9b27e0/transformed/exifinterface-1.3.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:monitor:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/20326f6d3028b51f917ecbedaedc2ded/transformed/monitor-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/da6b1dd448f2c4a1e044c031e9364089/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/3dabfe528f47c92f00a64fe4949065d1/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b88a54caf69181c7036e5534d987ebb8/transformed/jetified-timber-5.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/68bf2b790f924e31d1fd798308e3f9d1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b7461f7f7ab6c826a5a10710e8c43951/transformed/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:2:11-57
+	android:versionCode
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.READ_MEDIA_AUDIO
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:6:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:11:5-38:19
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-23:19
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-23:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:30:5-20
+MERGED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/a1eec6f4e1f4253fcf428dd43a9fa3cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/a1eec6f4e1f4253fcf428dd43a9fa3cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:5.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b88a54caf69181c7036e5534d987ebb8/transformed/jetified-timber-5.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b88a54caf69181c7036e5534d987ebb8/transformed/jetified-timber-5.0.1/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:13:7-39
+	android:roundIcon
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:15:7-52
+	android:icon
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:12:7-38
+service#com.doublesymmetry.trackplayer.service.MusicService
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:20:7-23:44
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-22:19
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-22:19
+	android:enabled
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:16:13-35
+	android:exported
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:22:9-32
+		REJECTED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-36
+	android:foregroundServiceType
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-58
+	tools:replace
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:23:9-41
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:21:9-75
+activity#com.miproyecto.MainActivity
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:25:7-36:18
+	android:label
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:27:9-41
+	android:launchMode
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:29:9-40
+	android:windowSoftInputMode
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:30:9-51
+	android:exported
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:31:9-32
+	android:configChanges
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:28:9-118
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:26:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:32:9-35:25
+action#android.intent.action.MAIN
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:33:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:34:13-73
+	android:name
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml:34:23-70
+uses-sdk
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-async-storage_async-storage] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-async-storage_async-storage] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-community/slider/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_slider] /home/freddy/StudioProjects/MiProyecto/node_modules/@react-native-community/slider/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-document-picker] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-document-picker] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-document-picker/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-fs] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/7b0146455a7d49dd104ba0e527a802e7/transformed/jetified-react-android-0.72.6-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:react-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/7b0146455a7d49dd104ba0e527a802e7/transformed/jetified-react-android-0.72.6-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/b8ac93b3ca0aee062ebebe74e1ae812d/transformed/jetified-hermes-android-0.72.6-release/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.react:hermes-android:0.72.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/b8ac93b3ca0aee062ebebe74e1ae812d/transformed/jetified-hermes-android-0.72.6-release/AndroidManifest.xml:5:5-44
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b544f2c27627d3e5a61d2eaf104b7d52/transformed/jetified-kotlinaudio-v2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.doublesymmetry:kotlinaudio:v2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b544f2c27627d3e5a61d2eaf104b7d52/transformed/jetified-kotlinaudio-v2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7065a57c1c8ce29d21c41f89d85b829/transformed/jetified-coil-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7065a57c1c8ce29d21c41f89d85b829/transformed/jetified-coil-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d41dd2a7e1ce7d439ad7696d693e669e/transformed/jetified-coil-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d41dd2a7e1ce7d439ad7696d693e669e/transformed/jetified-coil-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a4582fcf4777cd70591117a23078262/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a4582fcf4777cd70591117a23078262/transformed/appcompat-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/aff50e2a9b3c13dbf5f6a2bb255f515d/transformed/jetified-appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/aff50e2a9b3c13dbf5f6a2bb255f515d/transformed/jetified-appcompat-resources-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.autofill:autofill:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b2c399022120a5a16a836a433ff38c79/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b2c399022120a5a16a836a433ff38c79/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d2a0ef851359ae355103c8a357e2e22c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/d2a0ef851359ae355103c8a357e2e22c/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e476447430bdc86d50f956c4c4777a9c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e476447430bdc86d50f956c4c4777a9c/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.fragment:fragment:1.3.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/177c698be397eb145127cfb5353a1679/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /media/freddy/EXTERNO/gradle/caches/transforms-3/177c698be397eb145127cfb5353a1679/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/24934cef6fcb084e51d280dd4587dc43/transformed/jetified-activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/24934cef6fcb084e51d280dd4587dc43/transformed/jetified-activity-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/816103dcaf20cc3449d44e7aef228ddc/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/816103dcaf20cc3449d44e7aef228ddc/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/34c2120d0d3cd8dc97826fc02c9e8fc4/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56f1803f906fd5f118236bcaa7d83516/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56f1803f906fd5f118236bcaa7d83516/transformed/jetified-fresco-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/463b085172aadec89519c358dac4e9e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/463b085172aadec89519c358dac4e9e6/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f94ce445049fe5108bae0ffb11c13baa/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f94ce445049fe5108bae0ffb11c13baa/transformed/jetified-drawee-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/27f84bb717a8b1cd2be9be8892abf224/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/27f84bb717a8b1cd2be9be8892abf224/transformed/jetified-middleware-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2dc1ddc3116e7f500de7356f905cb3de/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2dc1ddc3116e7f500de7356f905cb3de/transformed/jetified-ui-common-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ca6afc21b9af658f6482a1b9a6af364/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ca6afc21b9af658f6482a1b9a6af364/transformed/jetified-nativeimagefilters-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4cf92de3c78540d6124f57edafd11be8/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4cf92de3c78540d6124f57edafd11be8/transformed/jetified-memory-type-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/434dd3be0b9659b4cb0b7e160c23042f/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/434dd3be0b9659b4cb0b7e160c23042f/transformed/jetified-memory-type-java-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0d3ae39a6072af8f10da24db00becb75/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0d3ae39a6072af8f10da24db00becb75/transformed/jetified-imagepipeline-native-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/cba94f087fc896da04d00977c3b4ef2c/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/cba94f087fc896da04d00977c3b4ef2c/transformed/jetified-memory-type-ashmem-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/1616eed3ce208fb9cb8ed27ec0f70f3c/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/1616eed3ce208fb9cb8ed27ec0f70f3c/transformed/jetified-imagepipeline-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/ba1f2933b2627bca5088b4d86f344673/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/ba1f2933b2627bca5088b4d86f344673/transformed/jetified-nativeimagetranscoder-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/eeeac1eb65861c80bc87d1dc691435bb/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/eeeac1eb65861c80bc87d1dc691435bb/transformed/jetified-imagepipeline-base-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e4c6348dd356291cec54fd56223b2321/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e4c6348dd356291cec54fd56223b2321/transformed/jetified-soloader-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.test:rules:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2e2693ddd6c3a69d44c8e45252caef08/transformed/rules-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/2e2693ddd6c3a69d44c8e45252caef08/transformed/rules-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6c4f3a207d75a46c3bde1abb15be0883/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.services:storage:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6c4f3a207d75a46c3bde1abb15be0883/transformed/jetified-storage-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f2782bc466a14e48ac3fd50422df07eb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f2782bc466a14e48ac3fd50422df07eb/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ef60d5b816f6ae0ee83e431ccfdea9a/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/0ef60d5b816f6ae0ee83e431ccfdea9a/transformed/lifecycle-viewmodel-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a8d1d171f8bf29065aa4727aea3aed22/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a8d1d171f8bf29065aa4727aea3aed22/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56ea24054bd615a4d95562dfc4deee97/transformed/jetified-extension-mediasession-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:extension-mediasession:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/56ea24054bd615a4d95562dfc4deee97/transformed/jetified-extension-mediasession-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/5bb46c85f81be2439e08ac6c56f7475a/transformed/jetified-exoplayer-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/5bb46c85f81be2439e08ac6c56f7475a/transformed/jetified-exoplayer-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/98622824935e8da30976627b1c47f6be/transformed/jetified-exoplayer-ui-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/98622824935e8da30976627b1c47f6be/transformed/jetified-exoplayer-ui-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89596425dbeb3faea61db51de34e04ec/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89596425dbeb3faea61db51de34e04ec/transformed/media-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e8e201cca117b063e591be309748cc21/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e8e201cca117b063e591be309748cc21/transformed/recyclerview-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/dfc6ab3249e5535f070488292c345975/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/dfc6ab3249e5535f070488292c345975/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f5e70c2f711b5e203c26b6cab0f2f096/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f5e70c2f711b5e203c26b6cab0f2f096/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/156ccde47985acbd22f61b88769a582b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/156ccde47985acbd22f61b88769a582b/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8e18f599a8378119e373becab285e8b1/transformed/jetified-exoplayer-dash-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8e18f599a8378119e373becab285e8b1/transformed/jetified-exoplayer-dash-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4c05687aaf0a630df5a5630423e8d4c2/transformed/jetified-exoplayer-hls-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/4c05687aaf0a630df5a5630423e8d4c2/transformed/jetified-exoplayer-hls-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/bbd85b4ea2fb42fc2ba0f3c8aa20505b/transformed/jetified-exoplayer-rtsp-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/bbd85b4ea2fb42fc2ba0f3c8aa20505b/transformed/jetified-exoplayer-rtsp-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89c480d4712ad19bceff14d88694b4dc/transformed/jetified-exoplayer-smoothstreaming-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/89c480d4712ad19bceff14d88694b4dc/transformed/jetified-exoplayer-smoothstreaming-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/55dcd46e4ec8045c49db1f6423ee9796/transformed/jetified-exoplayer-core-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/55dcd46e4ec8045c49db1f6423ee9796/transformed/jetified-exoplayer-core-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/80a0138e8c60a7516785efaf8dfd795a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/80a0138e8c60a7516785efaf8dfd795a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/424f890fe8622dde08059ad036b58b7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/424f890fe8622dde08059ad036b58b7e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/371d19ce28030327e76c1cf5f2b5245c/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/371d19ce28030327e76c1cf5f2b5245c/transformed/jetified-customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/53c0d890c6bc81ca8ed0b3e1e4669247/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/53c0d890c6bc81ca8ed0b3e1e4669247/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1a3fbeb970e57b17142c4a5c691c0de/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1a3fbeb970e57b17142c4a5c691c0de/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9eef969e6025718ac1fde2c52b3066d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9eef969e6025718ac1fde2c52b3066d8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/9aac10571d1da2bf9b3f9b1ce16ec0f0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/9aac10571d1da2bf9b3f9b1ce16ec0f0/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a9a88eff22990bbc5fa09fc77be65fe9/transformed/jetified-exoplayer-datasource-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a9a88eff22990bbc5fa09fc77be65fe9/transformed/jetified-exoplayer-datasource-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/366be6b9ec072ab8fe0ef6091e192119/transformed/jetified-exoplayer-database-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/366be6b9ec072ab8fe0ef6091e192119/transformed/jetified-exoplayer-database-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a22e19b08d8a5a9e605f5ed33b2a514/transformed/jetified-exoplayer-extractor-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/8a22e19b08d8a5a9e605f5ed33b2a514/transformed/jetified-exoplayer-extractor-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b08feb407dcdabe1f4f23b80ceb8227d/transformed/jetified-exoplayer-decoder-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b08feb407dcdabe1f4f23b80ceb8227d/transformed/jetified-exoplayer-decoder-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/c4154894c5c432bf38c482455db265c6/transformed/jetified-exoplayer-container-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-container:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/c4154894c5c432bf38c482455db265c6/transformed/jetified-exoplayer-container-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a7b6b5638d52e75e5c869b2d2692afb0/transformed/jetified-exoplayer-common-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a7b6b5638d52e75e5c869b2d2692afb0/transformed/jetified-exoplayer-common-2.19.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/a1eec6f4e1f4253fcf428dd43a9fa3cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/a1eec6f4e1f4253fcf428dd43a9fa3cd/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/653d028e3d1b563c6d219d7c9480311d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/653d028e3d1b563c6d219d7c9480311d/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b5a8f4cf7a5a1a22c362c296ecffd88b/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/b5a8f4cf7a5a1a22c362c296ecffd88b/transformed/lifecycle-livedata-core-2.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9e963b848f7749309ceb54174b3bfd88/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/9e963b848f7749309ceb54174b3bfd88/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e081ace0c4a1086c044e0d15d89ff25d/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e081ace0c4a1086c044e0d15d89ff25d/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /media/freddy/EXTERNO/gradle/caches/transforms-3/0eba2a16e2a1cb3e4265e0366e9b27e0/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] /media/freddy/EXTERNO/gradle/caches/transforms-3/0eba2a16e2a1cb3e4265e0366e9b27e0/transformed/exifinterface-1.3.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/20326f6d3028b51f917ecbedaedc2ded/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/20326f6d3028b51f917ecbedaedc2ded/transformed/monitor-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/da6b1dd448f2c4a1e044c031e9364089/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/da6b1dd448f2c4a1e044c031e9364089/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/3dabfe528f47c92f00a64fe4949065d1/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.5.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/3dabfe528f47c92f00a64fe4949065d1/transformed/jetified-fbcore-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.jakewharton.timber:timber:5.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b88a54caf69181c7036e5534d987ebb8/transformed/jetified-timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b88a54caf69181c7036e5534d987ebb8/transformed/jetified-timber-5.0.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/68bf2b790f924e31d1fd798308e3f9d1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/68bf2b790f924e31d1fd798308e3f9d1/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b7461f7f7ab6c826a5a10710e8c43951/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/b7461f7f7ab6c826a5a10710e8c43951/transformed/multidex-2.0.1/AndroidManifest.xml:20:5-43
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/freddy/StudioProjects/MiProyecto/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:react-native-fs] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:react-native-fs] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-fs/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:5-77
+	android:name
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:8:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
+ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-92
+	android:name
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-89
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:19:13-21:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from [:react-native-track-player] /home/freddy/StudioProjects/MiProyecto/node_modules/react-native-track-player/android/build/intermediates/merged_manifest/release/AndroidManifest.xml:20:25-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/ce16fe979dbb8e21943e6d6fc151e0f0/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/259206a491dfa4b8b6052b2b1c41d979/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.5.1] /media/freddy/EXTERNO/gradle/caches/transforms-3/f1089588ad4797c18f238c2a8ce82dde/transformed/jetified-lifecycle-process-2.5.1/AndroidManifest.xml:32:17-78
+meta-data#com.facebook.soloader.enabled
+ADDED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:12:9-14:37
+	android:value
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:14:13-34
+	android:name
+		ADDED from [com.facebook.soloader:soloader:0.10.5] /media/freddy/EXTERNO/gradle/caches/transforms-3/ec3312a013bd7d8a70466a1977a1dba4/transformed/jetified-soloader-0.10.5/AndroidManifest.xml:13:13-57
+queries
+ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:24:5-28:15
+package#androidx.test.orchestrator
+ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:25:18-59
+package#androidx.test.services
+ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:26:9-58
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:26:18-55
+package#com.google.android.apps.common.testing.services
+ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:27:9-83
+	android:name
+		ADDED from [androidx.test:runner:1.4.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/e7f43592051571add194abf4324589b2/transformed/runner-1.4.0/AndroidManifest.xml:27:18-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/55dcd46e4ec8045c49db1f6423ee9796/transformed/jetified-exoplayer-core-2.19.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a7b6b5638d52e75e5c869b2d2692afb0/transformed/jetified-exoplayer-common-2.19.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/a7b6b5638d52e75e5c869b2d2692afb0/transformed/jetified-exoplayer-common-2.19.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.19.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/55dcd46e4ec8045c49db1f6423ee9796/transformed/jetified-exoplayer-core-2.19.0/AndroidManifest.xml:24:22-76
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.miproyecto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.miproyecto.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /media/freddy/EXTERNO/gradle/caches/transforms-3/6071112da32bfbae80caeb5ecfa6fe8d/transformed/core-1.9.0/AndroidManifest.xml:26:22-94

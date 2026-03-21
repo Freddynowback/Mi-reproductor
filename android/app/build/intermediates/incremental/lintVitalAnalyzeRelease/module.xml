@@ -1,0 +1,19 @@
+<lint-module
+    format="1"
+    dir="/home/freddy/StudioProjects/MiProyecto/android/app"
+    name=":app"
+    type="APP"
+    maven="MiProyecto:app:"
+    gradle="7.4.2"
+    buildFolder="build"
+    bootClassPath="/media/freddy/EXTERNO/androidsdk/platforms/android-33/android.jar:/media/freddy/EXTERNO/androidsdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-33"
+    neverShrinking="true">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
