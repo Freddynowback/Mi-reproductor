@@ -1,12 +1,9 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          xmlns:tools="http://schemas.android.com/tools">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <!-- Para Android 13+ -->
     <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-
-    <!-- Para Android 12 y anteriores -->
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
 
     <application
       android:name=".MainApplication"
@@ -14,13 +11,8 @@
       android:icon="@mipmap/ic_launcher"
       android:roundIcon="@mipmap/ic_launcher_round"
       android:allowBackup="false"
+      android:enableOnBackInvokedCallback="false"
       android:theme="@style/AppTheme">
-
-      <!-- 🔥 ESTE ES EL IMPORTANTE -->
-      <service
-        android:name="com.doublesymmetry.trackplayer.service.MusicService"
-        android:exported="true"
-        tools:replace="android:exported" />
 
       <activity
         android:name=".MainActivity"
