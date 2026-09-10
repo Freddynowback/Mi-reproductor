@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Android: generated files and local-machine settings
+android/.gradle/
+android/.idea/
+android/app/build/
+android/build/
+android/local.properties
+*.apk
+*.aab
+
+# iOS: generated dependencies and build output
+ios/Pods/
+ios/build/
+DerivedData/
+
+# Test and runtime output
+coverage/
+*.log
